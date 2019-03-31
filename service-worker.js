@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rayhebard/robofriendsdemo/precache-manifest.de3b0ef5f1adc0e699dccc0aac7841cb.js"
+  "/robofriendsdemo/precache-manifest.4749cd4d9bbc04483555c60b23131c94.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rayhebard/robofriendsdemo/index.html", {
+workbox.routing.registerNavigationRoute("/robofriendsdemo/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

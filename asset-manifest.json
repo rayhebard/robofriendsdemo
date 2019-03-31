@@ -1,15 +1,15 @@
 {
-  "main.css": "/rayhebard/robofriendsdemo/static/css/main.4321b672.chunk.css",
-  "main.js": "/rayhebard/robofriendsdemo/static/js/main.0c3daaf7.chunk.js",
-  "main.js.map": "/rayhebard/robofriendsdemo/static/js/main.0c3daaf7.chunk.js.map",
-  "static/css/1.cb27dac3.chunk.css": "/rayhebard/robofriendsdemo/static/css/1.cb27dac3.chunk.css",
-  "static/js/1.afdf85d4.chunk.js": "/rayhebard/robofriendsdemo/static/js/1.afdf85d4.chunk.js",
-  "static/js/1.afdf85d4.chunk.js.map": "/rayhebard/robofriendsdemo/static/js/1.afdf85d4.chunk.js.map",
-  "runtime~main.js": "/rayhebard/robofriendsdemo/static/js/runtime~main.cd3f9a6b.js",
-  "runtime~main.js.map": "/rayhebard/robofriendsdemo/static/js/runtime~main.cd3f9a6b.js.map",
-  "static/css/1.cb27dac3.chunk.css.map": "/rayhebard/robofriendsdemo/static/css/1.cb27dac3.chunk.css.map",
-  "static/css/main.4321b672.chunk.css.map": "/rayhebard/robofriendsdemo/static/css/main.4321b672.chunk.css.map",
-  "index.html": "/rayhebard/robofriendsdemo/index.html",
-  "precache-manifest.de3b0ef5f1adc0e699dccc0aac7841cb.js": "/rayhebard/robofriendsdemo/precache-manifest.de3b0ef5f1adc0e699dccc0aac7841cb.js",
-  "service-worker.js": "/rayhebard/robofriendsdemo/service-worker.js"
+  "main.css": "/robofriendsdemo/static/css/main.4321b672.chunk.css",
+  "main.js": "/robofriendsdemo/static/js/main.87c49dbf.chunk.js",
+  "main.js.map": "/robofriendsdemo/static/js/main.87c49dbf.chunk.js.map",
+  "static/css/1.cb27dac3.chunk.css": "/robofriendsdemo/static/css/1.cb27dac3.chunk.css",
+  "static/js/1.afdf85d4.chunk.js": "/robofriendsdemo/static/js/1.afdf85d4.chunk.js",
+  "static/js/1.afdf85d4.chunk.js.map": "/robofriendsdemo/static/js/1.afdf85d4.chunk.js.map",
+  "runtime~main.js": "/robofriendsdemo/static/js/runtime~main.865a5cbc.js",
+  "runtime~main.js.map": "/robofriendsdemo/static/js/runtime~main.865a5cbc.js.map",
+  "static/css/1.cb27dac3.chunk.css.map": "/robofriendsdemo/static/css/1.cb27dac3.chunk.css.map",
+  "static/css/main.4321b672.chunk.css.map": "/robofriendsdemo/static/css/main.4321b672.chunk.css.map",
+  "index.html": "/robofriendsdemo/index.html",
+  "precache-manifest.4749cd4d9bbc04483555c60b23131c94.js": "/robofriendsdemo/precache-manifest.4749cd4d9bbc04483555c60b23131c94.js",
+  "service-worker.js": "/robofriendsdemo/service-worker.js"
 }
