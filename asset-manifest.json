@@ -1,15 +1,15 @@
 {
-  "main.css": "/rayhebard/robofriendsdemo.git/static/css/main.4321b672.chunk.css",
-  "main.js": "/rayhebard/robofriendsdemo.git/static/js/main.f2a53374.chunk.js",
-  "main.js.map": "/rayhebard/robofriendsdemo.git/static/js/main.f2a53374.chunk.js.map",
-  "static/css/1.cb27dac3.chunk.css": "/rayhebard/robofriendsdemo.git/static/css/1.cb27dac3.chunk.css",
-  "static/js/1.afdf85d4.chunk.js": "/rayhebard/robofriendsdemo.git/static/js/1.afdf85d4.chunk.js",
-  "static/js/1.afdf85d4.chunk.js.map": "/rayhebard/robofriendsdemo.git/static/js/1.afdf85d4.chunk.js.map",
-  "runtime~main.js": "/rayhebard/robofriendsdemo.git/static/js/runtime~main.cfa1f060.js",
-  "runtime~main.js.map": "/rayhebard/robofriendsdemo.git/static/js/runtime~main.cfa1f060.js.map",
-  "static/css/1.cb27dac3.chunk.css.map": "/rayhebard/robofriendsdemo.git/static/css/1.cb27dac3.chunk.css.map",
-  "static/css/main.4321b672.chunk.css.map": "/rayhebard/robofriendsdemo.git/static/css/main.4321b672.chunk.css.map",
-  "index.html": "/rayhebard/robofriendsdemo.git/index.html",
-  "precache-manifest.c0db7206d832150184e17a9eaf524c2e.js": "/rayhebard/robofriendsdemo.git/precache-manifest.c0db7206d832150184e17a9eaf524c2e.js",
-  "service-worker.js": "/rayhebard/robofriendsdemo.git/service-worker.js"
+  "main.css": "/rayhebard/robofriendsdemo/static/css/main.4321b672.chunk.css",
+  "main.js": "/rayhebard/robofriendsdemo/static/js/main.0c3daaf7.chunk.js",
+  "main.js.map": "/rayhebard/robofriendsdemo/static/js/main.0c3daaf7.chunk.js.map",
+  "static/css/1.cb27dac3.chunk.css": "/rayhebard/robofriendsdemo/static/css/1.cb27dac3.chunk.css",
+  "static/js/1.afdf85d4.chunk.js": "/rayhebard/robofriendsdemo/static/js/1.afdf85d4.chunk.js",
+  "static/js/1.afdf85d4.chunk.js.map": "/rayhebard/robofriendsdemo/static/js/1.afdf85d4.chunk.js.map",
+  "runtime~main.js": "/rayhebard/robofriendsdemo/static/js/runtime~main.cd3f9a6b.js",
+  "runtime~main.js.map": "/rayhebard/robofriendsdemo/static/js/runtime~main.cd3f9a6b.js.map",
+  "static/css/1.cb27dac3.chunk.css.map": "/rayhebard/robofriendsdemo/static/css/1.cb27dac3.chunk.css.map",
+  "static/css/main.4321b672.chunk.css.map": "/rayhebard/robofriendsdemo/static/css/main.4321b672.chunk.css.map",
+  "index.html": "/rayhebard/robofriendsdemo/index.html",
+  "precache-manifest.de3b0ef5f1adc0e699dccc0aac7841cb.js": "/rayhebard/robofriendsdemo/precache-manifest.de3b0ef5f1adc0e699dccc0aac7841cb.js",
+  "service-worker.js": "/rayhebard/robofriendsdemo/service-worker.js"
 }
