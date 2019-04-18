@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "/andrion-chrome-192x192.png",
+      "src": "/andriod-chrome-192x192.png",
       "sizes": "192X192",
       "type": "image/png"
     },
     {
-      "src": "/andrion-chrome-512x512.png",
+      "src": "/android-chrome-512x512.png",
       "sizes": "512X512",
       "type": "image/png"
     }
