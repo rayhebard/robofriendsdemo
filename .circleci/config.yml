@@ -15,7 +15,7 @@
 
  workflows:
    version: 2
-     bobby_sally:
-       jobs:
-         - bobby
-         - sally
+   bobby_sally:
+     jobs:
+       - bobby
+       - sally
