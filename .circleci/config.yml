@@ -5,13 +5,13 @@
        - image: circleci/ruby:2.4.1
      steps:
        - checkout
-       - run: echo "A first hello"
+       - run: echo "A first hello world"
    ricky:
      docker:
        - image: circleci/ruby:2.4.1
      steps:
        - checkout
-       - run: echo "Double trouble"
+       - run: echo "Double trouble here we come"
 
  workflows:
    version: 2
